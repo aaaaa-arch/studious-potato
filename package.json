@@ -1,0 +1,17 @@
+{
+  "name": "gopeed-extension-pan",
+  "version": "2.0.2",
+  "description": "Gopeed 全网盘直链下载器 - 支持夸克/UC/阿里/百度/迅雷/115/蓝奏/天翼，自动删除转存",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "license": "MIT",
+  "author": "aaaaa-arch"
+}
